@@ -101,3 +101,5 @@ Connection
 
 ## Photos of Trasmitter
 
+[](https://github.com/Sampad-Hegde/NRF-24-Based-Multi-Mode-Robot-and-Multi-purpose-Remote/blob/main/Photos/Trasmitter.jpg)
+
